@@ -1,4 +1,4 @@
 # Spotify-Clone
-This is a Spotify Web Player clone version created using HTML and CSS
+This is a Spotify Web Player Home page clone created using HTML and CSS
 
 Link: https://azim-me.github.io/Spotify-Clone/
